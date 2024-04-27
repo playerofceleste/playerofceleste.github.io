@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Renogare';
+    src: url('Renogare-Regular.woff2') format('woff2'),
+        url('Renogare-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p{
+  color: #FF7BB9;
+   text-align: center;
+}
+body{
+  background-color: blue;
+  color:red;
+}
+h1 {
+
+  color: #DE408A;
+   text-align: center;
+  font-family: 'Renogare'
+}
