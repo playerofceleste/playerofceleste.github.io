@@ -6,11 +6,10 @@
     font-style: normal;
     font-display: swap;
 }
-.center {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 p{
   color: #FF7BB9;
