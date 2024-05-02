@@ -27,6 +27,7 @@ h1 {
   font-family: 'Renogare'
 }
 ul {
+    color: #DF6BA9;
     list-style-type: square;
     text-align: center;
     font-family: "IBM Plex Mono", "Courier New", monospace;
