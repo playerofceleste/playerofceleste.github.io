@@ -14,6 +14,7 @@ img {
 p{
   color: #FF7BB9;
    text-align: center;
+      font-family: "IBM Plex Mono", "Courier New", monospace;
 }
 body{
   background-color: #0c0611;
