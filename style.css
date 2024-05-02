@@ -31,4 +31,5 @@ ul {
     list-style-type: square;
     text-align: center;
     font-family: "IBM Plex Mono", "Courier New", monospace;
+    font-weight: bold;
 }
