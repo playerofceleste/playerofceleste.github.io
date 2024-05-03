@@ -34,9 +34,9 @@ ul {
     font-weight: bold;
 }
 a:link, a:visited {
-  background-color: white;
-  color: black;
-  border: 2px solid green;
+  background-color: #B292AC;
+  color: #2c2631;
+  border: 2px #DE408A;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -44,6 +44,6 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: green;
-  color: white;
+  background-color:#B292AC;
+  color:#4c4671;
 }
