@@ -34,18 +34,20 @@ ul {
     font-weight: bold;
 }
 a:link, a:visited {
-  background-color: #62526C;
-  color: #2c2632;
+  background-color: #1c1621;
+  color: #eed8e5;
   border: 2px #42324C;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-family: "IBM Plex Mono", "Courier New", monospace;
+  font-weight: bold;
 }
 
 a:hover, a:active {
-  background-color:#B292AC;
-  color:#4c4671;
+  background-color:#2c2631;
+  color:#eed8e5;
   font-family: "IBM Plex Mono", "Courier New", monospace;
+  font-weight: bold;
 }
