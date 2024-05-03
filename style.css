@@ -10,6 +10,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  height: 50%;
+  width: 50%;
 }
 p{
   color: #FF7BB9;
