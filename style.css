@@ -51,3 +51,6 @@ a:hover, a:active {
   font-family: "IBM Plex Mono", "Courier New", monospace;
   font-weight: bold;
 }
+div {
+    margin: auto;
+}
