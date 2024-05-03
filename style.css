@@ -41,9 +41,11 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-family: "IBM Plex Mono", "Courier New", monospace;
 }
 
 a:hover, a:active {
   background-color:#B292AC;
   color:#4c4671;
+  font-family: "IBM Plex Mono", "Courier New", monospace;
 }
