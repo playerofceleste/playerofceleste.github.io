@@ -52,8 +52,7 @@ a:hover, a:active {
   font-weight: bold;
 }
 div {
-div {
   width:90%;
   margin:auto;
-}
+  text-align: center;
 }
