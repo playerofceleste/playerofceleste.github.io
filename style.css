@@ -52,5 +52,8 @@ a:hover, a:active {
   font-weight: bold;
 }
 div {
-    margin: auto;
+div {
+  width:90%;
+  margin:auto;
+}
 }
