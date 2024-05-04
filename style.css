@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Renogare';
-    src: url('Renogare-Regular.woff2') format('woff2'),
-        url('Renogare-Regular.woff') format('woff');
+    src: url('assets/Renogare-Regular.woff2') format('woff2'),
+        url('assets/Renogare-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
