@@ -60,7 +60,7 @@ div {
   margin:auto;
   text-align: center;
 }
-button {
+.button {
   background-color: #1c1621;
   color: #eed8e5;
   border: 2px #42324C;
