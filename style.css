@@ -34,6 +34,8 @@ ul {
     text-align: center;
     font-family: "IBM Plex Mono", "Courier New", monospace;
     font-weight: bold;
+    display: block;
+    margin: auto;
 }
 a:link, a:visited {
   background-color: #1c1621;
