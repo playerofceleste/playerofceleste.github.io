@@ -12,6 +12,8 @@ img {
   margin-right: auto;
   height: 50%;
   width: 50%;
+  margin-top: 50px
+  margin-bottom: 50px
 }
 p{
   color: #FF7BB9;
