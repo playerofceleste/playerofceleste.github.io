@@ -16,9 +16,12 @@ img {
   margin-bottom: 50px;
 }
 p{
+  display: block;
   color: #FF7BB9;
    text-align: center;
       font-family: "IBM Plex Mono", "Courier New", monospace;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 body{
   background-color: #0c0611;
