@@ -61,13 +61,13 @@ a:hover, a:active {
   color:#eed8e5;
   font-family: "IBM Plex Mono", "Courier New", monospace;
   font-weight: bold;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 div {
   width:50%;
   margin:auto;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   text-align: center;
 }
