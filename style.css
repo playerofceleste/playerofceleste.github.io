@@ -52,6 +52,8 @@ a:link, a:visited {
   display: inline-block;
   font-family: "IBM Plex Mono", "Courier New", monospace;
   font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 a:hover, a:active {
@@ -59,9 +61,13 @@ a:hover, a:active {
   color:#eed8e5;
   font-family: "IBM Plex Mono", "Courier New", monospace;
   font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 div {
   width:50%;
   margin:auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
   text-align: center;
 }
