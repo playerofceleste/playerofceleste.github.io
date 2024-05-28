@@ -77,3 +77,11 @@ div {
   margin-bottom: 10px;
   text-align: center;
 }
+
+::-moz-selection {
+  background:#4c3651;
+}
+
+::selection {
+  background:#4c3651;
+}
