@@ -1,74 +1,56 @@
 ==================================================================
-https://keybase.io/playerofceleste
+https://keybase.io/catgirlanarchist
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://playerofceleste.github.io
-  * I am playerofceleste (https://keybase.io/playerofceleste) on keybase.
-  * I have a public key with fingerprint A53B 8AB0 0E28 8739 FE4F  CA24 4A7F ABC3 7EDA 2DF4
+  * I am catgirlanarchist (https://keybase.io/catgirlanarchist) on keybase.
+  * I have a public key ASCg86MDbi6ZsKvi-hRJLJ8XSwf62MNXRID-ZlZZqPCUzQo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "010141d9fcc20b40e10bc4c3f52c119d7cd5f2aec127aa8d87b74edc0a2db3b056db0a",
-      "fingerprint": "a53b8ab00e288739fe4fca244a7fabc37eda2df4",
+      "eldest_kid": "0120a0f3a3036e2e99b0abe2fa14492c9f174b07fad8c3574480fe665659a8f094cd0a",
       "host": "keybase.io",
-      "key_id": "4a7fabc37eda2df4",
-      "kid": "010141d9fcc20b40e10bc4c3f52c119d7cd5f2aec127aa8d87b74edc0a2db3b056db0a",
-      "uid": "f968d54f9f58ee0b7429e53424df6f19",
-      "username": "playerofceleste"
+      "kid": "0120a0f3a3036e2e99b0abe2fa14492c9f174b07fad8c3574480fe665659a8f094cd0a",
+      "uid": "499032b264206ded83c91d40c7208419",
+      "username": "catgirlanarchist"
+    },
+    "merkle_root": {
+      "ctime": 1721560007,
+      "hash": "223cf63a70798b1a31581c8e34043f103a653fbec4143c11495e03432ad9d53bc312e296eb739a972b5e2c656a4e5aac7367bf8bd71a5b88bcb172a39c294545",
+      "hash_meta": "fe617a296796e55267f650791e3e572c2991c0cdc382ebdc16f9faace61457f4",
+      "seqno": 25937697
     },
     "service": {
+      "entropy": "UZjrEUOYZH5+GyiZyf2UUT3m",
       "hostname": "playerofceleste.github.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1721552060,
-  "expire_in": 157680000,
-  "prev": "ef45609e7f209c119ab43eb45fbcd60e55a15dd0936513159cb448d75a70d86b",
-  "seqno": 2,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.3.1"
+  },
+  "ctime": 1721560038,
+  "expire_in": 504576000,
+  "prev": "673658a0d3bd5d5c45942abda7e84faae130b085e7bd19870efcd0e397d28080",
+  "seqno": 9,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.13
-Comment: https://keybase.io/crypto
-
-yMNJAnicrZJtUFRVGMcXJXddhyChYAYQvZAoLnTv3Xv27t3wJcCQXhw0bDKq7Z57
-zt297bK73N1FNmUIUhPGmCEdkyWKKSYVBgonJ8cIQ0hKJBgtNN9IoTeYAMsY2NHs
-Xqpvfux8OXPO+T3/5//85/REzNfow74buthS3nvSF9bX1eLXiO+c7dhOQDcKEJbt
-hAPPbdiJsNdndUiIsBAkRVIMhThREGgSMiSmSCgwglEEtEBRHGIFBESaxwJFszxv
-RmYWsgxGAsnTCBohCUwIkjxhIETJZcOyR5ZcPkWWB0Zo5iFJYtpsZo2ciBlR4GmG
-4VmRh4KRxUgREBml0O72qhWKOch7cYbkVu6Ug3XO3j34/9m3f05O5ExmBBiRE4EZ
-Y1JhaQ4DI0MzSDSJFKeCXiy7+CKs0B4nH8CyWxSwU0kSE2UGQnkskQSs5qsOdG8w
-wyb57H74z4we2e1zC26ngtl9Po/Xosr4Ah61bhuG1n8VrVByISVbpaIEy17J7SIs
-lEIKPkltQbE0BQBNmkgDgUs9koytkkoA1mQmlaX2wSWKJBYZYCI5zIo0yakR8ZAx
-YsgAEQrIRGIAeAogRHJGE6CMFOAEyDBmxAKeJZHZBAl1xmKXm7DQik3epkh6JZuL
-9/llJYBTXS+Ea8L0mgX3zVP/nEa/MOq/n5hxOkpzKCUxOqL7ijw4cyGvU7+if6zD
-trTlRh94bxOz3FYwFZv/6bmLibsLi+2LBk8s/PDZB1M+er5i5TbnM93N3rfPUatn
-XrRDrr2gWdz3QZguLTutqXPZr+sbJi/XNRz4Ib6gUJNT21S8vGqISXwlWJkkH2+f
-1O58PfatlC2J0x+/Wj+lSz5gzr403T85S54YSy5Zle8Pbeyoilg7EdYbv7PVuqRe
-QmOo/8k9Y3W3P08LXUjSbjY8er7dDu7ceSBydARGB79cebaa+j4wmHy+7NiOkTPH
-124uyzREZAtVwaRoKz1yatabs6H5cacp/OZrXxc3/QyuZzriJrYcuaWteEz7SYEt
-tXFZ21/DC+xvvhtbM+9Pa6lreKj7qQJHDpE5WPnSoYpOR/jdtrjyuuE3fknYf2xx
-U/X0/bmRvcM1gdDWJ7416BJGL4WuMrC8+GROVu3BnvElcQ6A2tdverhm5uq6vaVr
-NKlF+qo9k+lPM3C6yxjcTT/0SOsVf/CLRUdTGweqwa7FhaGUysPu5Mv55a0DrQPd
-Y0sd6745HRUT91leVcz1uPCbt3Pzxd8SViSWbUiv047LPePvH+3YOr/oufisenvD
-jTZdn877k/hHREytBV/bkTLbkJVXx/c2R/7ou6u/Fo7lr6bObFxj9+f7J26t+v3l
-wYOHu6ecFasndY3oiDN9b3C0PpSrDfwN46nK3Q==
-=WZjS
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoPOjA24umbCr4voUSSyfF0sH+tjDV0SA/mZWWajwlM0Kp3BheWxvYWTESpcCCcQgZzZYoNO9XVxFlCq9p+hPquEwsIXnvRmHDvzQ45fSgIDEIFjXZa4GB25OeDlNwzAm0nQfnXuV2ggKQZNNOrvRmBktAgHCo3NpZ8RAHl0Cld+/lFivPBvgB/gUBui/UVqL+EMcEm86oPRDUaldVldum1eAk7McYhkQiju5adQpt7ljJdCMiovQu6thCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMim3dTSCvXUDaiKNg6xNX/mgX7tAIh5QieTvi9sZmoCo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/playerofceleste
+View my publicly-auditable identity here: https://keybase.io/catgirlanarchist
 
 ==================================================================
