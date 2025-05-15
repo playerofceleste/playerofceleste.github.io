@@ -22,14 +22,21 @@ p {
     margin-top: 50px;
     font-weight: bold;
     margin-bottom: 50px;
-    font-size: 0.9vw;
+    font-size: 2vh;
 }
 body {
   background-color: #0c0611;
   color:#c29eb6;
 }
+@media only screen and (min-width: 2501px) {h1 {font-size: 105px;}}
+@media only screen and (max-width: 2500px) {h1 {font-size: 90px;}}
+@media only screen and (max-width: 2020px) {h1 {font-size: 80px;}}
+@media only screen and (max-width: 1750px) {h1 {font-size: 70px;}}
+@media only screen and (max-width: 1300px) {h1 {font-size: 60px;}}
+@media only screen and (max-width: 1150px) {h1 {font-size: 50px;}}
+@media only screen and (max-width: 950px) {h1 {font-size: 3rem;}}
+@media only screen and (max-width: 560px) {h1 {font-size: 2.5rem;}}
 h1 {
-    font-size: 3vw;
     color: #DE408A;
     text-align: center;
     font-family: 'Renogare', sans-serif;
@@ -88,7 +95,7 @@ pre {
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 5vw;
-    font-size: 0.9vw;
+    font-size: 2vh;
 }
 div {
   width:50%;
@@ -98,7 +105,7 @@ div {
 
 hr {
     width: 55vw;
-    border: 0.4vw dotted #FF7BB9;
+    border: 0.4vh dotted #FF7BB9;
     margin: 5vh auto;
 }
 
@@ -126,7 +133,7 @@ hr {
 
 .logo {
     margin-bottom: 5vh;
-    margin-top: 5vh;
+    margin-top: 0;
     scale: 0.8;
 }
 
