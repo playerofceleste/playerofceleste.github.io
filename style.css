@@ -18,20 +18,21 @@ p {
     display: block;
     color: #FF7BB9;
     text-align: center;
-        font-family: "IBM Plex Mono", "Courier New", monospace;
+    font-family: "IBM Plex Mono", "Courier New", monospace;
     margin-top: 50px;
     font-weight: bold;
     margin-bottom: 50px;
+    font-size: 0.9vw;
 }
 body {
   background-color: #0c0611;
   color:#c29eb6;
 }
 h1 {
-
-  color: #DE408A;
-   text-align: center;
-  font-family: 'Renogare', sans-serif;
+    font-size: 3vw;
+    color: #DE408A;
+    text-align: center;
+    font-family: 'Renogare', sans-serif;
 }
 h2 {
 
@@ -87,13 +88,25 @@ pre {
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 5vw;
+    font-size: 0.9vw;
 }
 div {
   width:50%;
-    margin: 10px auto;
+    margin: 1vh auto;
     text-align: center;
 }
 
+hr {
+    width: 55vw;
+    border: 0.4vw dotted #FF7BB9;
+    margin: 5vh auto;
+}
+
+.bold-hr {
+    width: 70vw;
+    border-radius: 5vw;
+    border: 0.7rem double #FF7BB9;
+}
 ::-moz-selection {
   background:#4c3651;
 }
