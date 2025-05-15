@@ -115,7 +115,6 @@ pre {
     border-radius: 5vw;
     font-size: 2vh;
 }
-@media only screen and (max-width: 560px) {pre {font-size: 0.5vw;}}
 div {
   width:50%;
     margin: 1vh auto;
