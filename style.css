@@ -9,10 +9,11 @@
 img {
     display: block;
     margin: 50px auto;
-    height: 50%;
-    width: 50%;
-    border-radius: 10%;
-
+    height: auto;
+    width: auto;
+    border-radius: 4rem;
+    max-width: 100%;
+    object-fit: contain;
 }
 p {
     display: block;
@@ -23,6 +24,7 @@ p {
     font-weight: bold;
     margin-bottom: 50px;
     font-size: 2vh;
+    overflow-wrap: break-word;
 }
 body {
   background-color: #0c0611;
@@ -125,10 +127,6 @@ hr {
 .heart:hover {
     background-color: #a85a7f;
     color: #eed8e5;
-}
-.flag {
-    width: 40vh;
-    height: 15vw;
 }
 
 .logo {
