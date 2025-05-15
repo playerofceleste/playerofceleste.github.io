@@ -8,10 +8,7 @@
 }
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin: 50px auto;
     height: 50%;
     width: 50%;
     border-radius: 10%;
@@ -61,10 +58,11 @@ a:link, a:visited {
     background-color: #1c1621;
     color: #eed8e5;
     border: 2px #42324C;
-    padding: 10px 20px;
+    padding: 20px 20px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    /*display: inline-block;*/
+    display: block;
     font-family: "IBM Plex Mono", "Courier New", monospace;
     font-weight: bold;
     margin-top: 10px;
@@ -81,12 +79,19 @@ a:hover, a:active {
     margin-bottom: 10px;
     border-radius: 5vw;
 }
+
+pre {
+    color:#eed8e5;
+    font-family: "IBM Plex Mono", "Courier New", monospace;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5vw;
+}
 div {
   width:50%;
-  margin:auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  text-align: center;
+    margin: 10px auto;
+    text-align: center;
 }
 
 ::-moz-selection {
@@ -107,7 +112,7 @@ div {
 }
 
 .logo {
-    margin-bottom: 0;
+    margin-bottom: 5vh;
     margin-top: 5vh;
     scale: 0.8;
 }
